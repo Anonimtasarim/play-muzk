@@ -1,8 +1,8 @@
 import os as o
 
-# Kişisel müzik yolları kaldırıldı, genel liste isimleri eklendi
+
 müsikler = {
-    "liste1": [],  # Kullanıcı kendi yollarını ekleyecek
+    "liste1": [], 
     "liste2": [],
     "liste3": []
 }
